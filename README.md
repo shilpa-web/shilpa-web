@@ -5,6 +5,9 @@ Detail-oriented Data Analyst with a strong background in data analysis, quality 
 
 ## Summary
 
+Detail-oriented and analytical professional transitioning into data analytics, with a background in research, quality assurance, and document analysis. Proficient in SQL, Python, Power BI, and Tableau, with hands-on experience in data modeling, visualization, and reporting. Recently completed Business Analytics with SQL and Python (RMIT) and the IBM Data Analyst Master Program, strengthening expertise in data-driven decision-making. Passionate about leveraging data insights to solve business problems and optimize processes. Seeking an entry-level Data Analyst role to apply analytical skills and grow within a data-driven environment.
+
+## Technical Skills ![images](https://github.com/user-attachments/assets/a6dfedac-b193-4d1d-ba05-254537a77693)
 
 
 
