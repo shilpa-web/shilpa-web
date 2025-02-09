@@ -1,5 +1,6 @@
- ![istockphoto-2161298305-612x612](https://github.com/user-attachments/assets/a632ffb0-462b-4bae-ac44-ee2163b2c44d)
+
               
+![fabio-oyXis2kALVg-unsplash](https://github.com/user-attachments/assets/b03e22d0-1fbc-4cfc-8fca-841426d9eb8b)
 
 
 Detail-oriented Data Analyst with a strong background in data analysis, quality assurance, and clinical research. Proficient in SQL, Python, Power BI, Tableau, and Excel, with hands-on experience in data modeling, visualization, and process improvement. Certified in Business Analytics (RMIT) and IBM Data Analyst Master Program, with a keen interest in data-driven decision-making and stakeholder engagement. Passionate about transforming raw data into actionable insights to drive business success.
