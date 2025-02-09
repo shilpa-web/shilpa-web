@@ -2,7 +2,8 @@
               
 
 
-![istockphoto-2161298305-612x612](https://github.com/user-attachments/assets/43f5e2d3-59f3-4d97-a599-92164ed675e8)
+
+<img width="306" alt="2154830395-612x612" src="https://github.com/user-attachments/assets/d6aa38bc-3579-43f7-8f63-8247fd1ed136" />
 
 
 
