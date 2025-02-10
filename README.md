@@ -21,6 +21,8 @@ Detail-oriented and analytical professional transitioning into data analytics, w
 
 •	Clinical Research
 
+## Table of Contents
+
 
 
 
