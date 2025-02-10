@@ -10,10 +10,15 @@ Detail-oriented and analytical professional transitioning into data analytics, w
 ## Technical Skills 🔨
 
 •	Microsoft Excel
+
 •	Microsoft Power BI
+
 •	SQL
+
 •	Tableau
+
 •	Python
+
 •	Clinical Research
 
 
