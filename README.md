@@ -9,7 +9,7 @@ Detail-oriented and analytical professional transitioning into data analytics, w
 
 ## Technical Skills 🔨
 •	 Programming Languages: Python (basic knowledge – data analysis, scripting)
-   - Tools: Power BI, Excel, Jupyter Notebook
+   - Tools: Jupyter Notebook
    - Libraries: pandas, matplotlib, numpy
 •	Microsoft Excel
 
