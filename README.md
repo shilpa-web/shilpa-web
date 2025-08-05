@@ -19,8 +19,6 @@ Detail-oriented and analytical professional transitioning into data analytics, w
 
 •	Tableau
 
-•	Python
-
 •	Clinical Research
 
 ## Table of Contents
