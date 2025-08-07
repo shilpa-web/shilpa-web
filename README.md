@@ -21,7 +21,7 @@ Detail-oriented and analytical professional transitioning into data analytics, w
 
 •	Clinical Research
 
-## CERTIFICATIONS
+## Certifications
 
 •	Business Analytics with SQL and Python – RMIT       
 •	IBM Data Analyst Master Program – Simplilearn                           
